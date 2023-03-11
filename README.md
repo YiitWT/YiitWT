@@ -1,8 +1,8 @@
 
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- Kendimden  bahsedeyim. Ben [Stallion](https://github.com/ArianT-Yt) öğrenmeye meraklı birisiyim.
-Yaklaşık 2019'dan beri yazılım ile ilgileniyorum. [Stallion'T](https://youtu.be/xnQB0shHzUI) youtube serime göz atabilirsiniz.
+- Kendimden  bahsedeyim. Ben [Yiit](https://github.com/YiitWT) öğrenmeye meraklı birisiyim.
+Yaklaşık 2019'dan beri yazılım ile ilgileniyorum. [YiitWT](https://youtu.be/xnQB0shHzUI) youtube serime göz atabilirsiniz.
 
 - İletişim için yigit.best@outlook.com'a yazabilirsiniz.
 
@@ -16,7 +16,7 @@ Yaklaşık 2019'dan beri yazılım ile ilgileniyorum. [Stallion'T](https://youtu
 
 
 
-[![Stallion'ın başarımları](https://github-readme-stats.vercel.app/api?username=StallionYT&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/StallionYT/github-readme-stats)
+[![YiitWT'nin başarımları](https://github-readme-stats.vercel.app/api?username=YiitWT&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/YiitWT/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StallionYT)](https://github.com/StallionYT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiitWT)](https://github.com/YiitWT/github-readme-stats)
