@@ -1,10 +1,10 @@
 
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-
-
 </br>
-</br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/852624675917660272)](https://discord.com/users/852624675917660272)
+
 </br>
 
 
@@ -43,16 +43,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YiitWT&show_icons=true&theme=tokyonight)]
 </p>
 </br>
-</br>
-</br>
-
-
 
 # Contact Me :
 
 <p>
- </br>
-
+</br>
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 [![Discord Presence](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/taTJYEFQAt)
@@ -63,8 +58,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 </br>
 </br>
-</br>
-</br>
 
 
 
@@ -72,4 +65,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   
   </p>
 
-*************https://github-readme-stats.vercel.app/api/top-langs/?username=YiitWT)](https://github.com/YiitWT/github-readme-stats)
