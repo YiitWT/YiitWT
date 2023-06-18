@@ -40,7 +40,9 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 </br>
 </br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YiitWT&show_icons=true&theme=tokyonight)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YiitWT&show_icons=true&theme=tokyonight)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiitWT&show_icons=true&theme=tokyonight)
 </p>
 </br>
 
