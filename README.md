@@ -1,18 +1,19 @@
 
-## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- Kendimden  bahsedeyim. Ben [Yiit](https://github.com/YiitWT) öğrenmeye meraklı birisiyim.
-Yaklaşık 2019'dan beri yazılım ile ilgileniyorum. [YiitWT](https://youtu.be/xnQB0shHzUI) youtube serime göz atabilirsiniz.
+- Let me introduce myself. My name is [Yiit](https://github.com/YiitWT),
+- I've been interested coding/development since 2019.
 
-- İletişim için yigit.best@outlook.com'a yazabilirsiniz.
+- You can access my social acounts below.
 
-<h3>🌟 Sosyal medya hesaplarım!</h3>
+<h3>🌟 Here Is My Social Media Accounts!</h3>
 
-[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/taTJYEFQAt)
-[![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/@YiitWasTaken)
-[![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/YiitWT)
 
-<div >
+[![Discord Presence](https://lanyard.cnrad.dev/api/852624675917660272)](https://discord.com/users/852624675917660272)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/@YiitWasTaken)
+[![Github Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/YiitWT)
+
+<div>
 
 
 
