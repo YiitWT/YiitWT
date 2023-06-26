@@ -3,7 +3,7 @@
 
 </br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852624675917660272)](https://discord.com/users/852624675917660272)
+[![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=31pkcjesgpgx5nz7pnfy53x6ktgm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </br>
 
