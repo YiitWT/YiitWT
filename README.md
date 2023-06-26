@@ -1,8 +1,8 @@
 
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-</br>
 ### Spotify Status
+</br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pkcjesgpgx5nz7pnfy53x6ktgm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </br>
