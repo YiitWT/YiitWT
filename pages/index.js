@@ -12,7 +12,7 @@ export default function Home() {
     <div>
       <Head >
         <title>YiitWT | Developer</title>
-        <link rel="icon" href="/icon.png" />
+        <link rel="icon" href="https://media.discordapp.net/attachments/1149704738179403806/1149704961068892241/icon.png" />
         <meta name="title" content="YiitWT"/>
         <meta name="description" content="Selamlar, ben Yiğit Polyglot Developer'im"/>
         <meta name="keywords" content="yiitwt,portifolio,webdeveloper, developer"/>
