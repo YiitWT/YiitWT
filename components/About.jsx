@@ -19,7 +19,7 @@ const About = () => {
                 <p className="py-2 text-blue-300 underline cursor-pointer">Projelerime göz at.</p>
             </div>
             <div className="w-full h-full m-auto shadow-xl shadow-gray-600 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
-                <Image className="rounded-xl" src="/assets/hakkinmda-sag-kisim.jpg" alt="Resim Yüklenemedi" width="730" height="720" clas></Image>
+                <Image className="rounded-xl" src="https://media.discordapp.net/attachments/1149704738179403806/1149704961433813032/hakkinmda-sag-kisim.jpg" alt="Resim Yüklenemedi" width="730" height="720" clas></Image>
             </div>
         </div>
     </div>
