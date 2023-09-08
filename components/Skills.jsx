@@ -12,7 +12,7 @@ const Skills = () => {
               <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                   <div className="m-auto">
-                    <Image src="/assets/skills/node.png" alt="/" width="64" height="64"/>
+                    <Image src="https://cdn.discordapp.com/attachments/1149704738179403806/1149704963430285383/node.png" alt="/" width="64" height="64"/>
                   </div>
                   <div className="flex flex-col items-center justify-center">
                     <h3>NodeJS</h3>
@@ -23,7 +23,7 @@ const Skills = () => {
               <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                   <div className="m-auto">
-                    <Image src="/assets/skills/html.png" alt="/" width="64" height="64"/>
+                    <Image src="https://cdn.discordapp.com/attachments/1149704738179403806/1149704962226524200/html.png" alt="/" width="64" height="64"/>
                   </div>
                   <div className="flex flex-col items-center justify-center">
                     <h3>HTML</h3>
@@ -34,7 +34,7 @@ const Skills = () => {
               <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                   <div className="m-auto">
-                    <Image src="/assets/skills/python.png" alt="/" width="64" height="64"/>
+                    <Image src="https://cdn.discordapp.com/attachments/1149704738179403806/1149704963707125782/python.png" alt="/" width="64" height="64"/>
                   </div>
                   <div className="flex flex-col items-center justify-center">
                     <h3>Python</h3>
@@ -45,7 +45,7 @@ const Skills = () => {
               <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                   <div className="m-auto">
-                    <Image src="/assets/skills/css.png" alt="/" width="64" height="64"/>
+                    <Image src="https://cdn.discordapp.com/attachments/1149704738179403806/1149704961685458964/css.png" alt="/" width="64" height="64"/>
                   </div>
                   <div className="flex flex-col items-center justify-center">
                     <h3>CSS</h3>
@@ -56,7 +56,7 @@ const Skills = () => {
               <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                   <div className="m-auto">
-                    <Image src="/assets/skills/nextjs.png" alt="/" width="64" height="64"/>
+                    <Image src="https://cdn.discordapp.com/attachments/1149704738179403806/1149704963069579326/nextjs.png" alt="/" width="64" height="64"/>
                   </div>
                   <div className="flex flex-col items-center justify-center">
                     <h3>NextJS</h3>
@@ -67,7 +67,7 @@ const Skills = () => {
               <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                   <div className="m-auto">
-                    <Image src="/assets/skills/java.png" alt="/" width='38' height="64"/>
+                    <Image src="https://cdn.discordapp.com/attachments/1149704738179403806/1149704962524315718/java.png" alt="/" width='38' height="64"/>
                   </div>
                   <div className="flex flex-col items-center justify-center">
                     <h3>Java</h3>
