@@ -14,7 +14,7 @@ const Main = () => {
                 Polyglot Developer.
                 </h2>
                 <p className='py-4 text-gray-400 max-w-[70%] m-auto'>
-                    Im a Polyglot Developer! But mostly im workign on web development. Im currently focused on learning frameworks and learning java!
+                    Selam, ben bir Polyglot Geliştiriciyim, fakat çoğunlukla Web Geliştiriciliği üzerine çalışıyorum. Şuan yeni framework{"'"}ler ve JAVA öğrenmeye çalışıyorum.
                 </p>
                 <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
 
