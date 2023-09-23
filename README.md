@@ -1,9 +1,10 @@
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=100&duration=3000&pause=1000&color=2596BE&center=true&vCenter=true&width=1920&height=300&lines=Hi+%40everyone%2C+my+name+is+Yigit;I'm+15+years+old;I'm+living+in+Turkiye)](https://git.io/typing-svg) <img align="right" src="https://komarev.com/ghpvc/?username=YiitWT&label=Profile%20views&color=0e75b6&style=flat" alt="YiitWT" />
 ### Spotify Status
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317fxtfhyk27mnhzgyd6rcjvvvuu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317fxtfhyk27mnhzgyd6rcjvvvuu&redirect=true)
 
 # About ME :speech_balloon:
+
+
 ### - I'm a 15-year-old living in Turkey.
 ### - Learning:
 - :sparkles: Everything :flushed:
@@ -15,10 +16,7 @@
 
 # Languages & Tools :man_technologist: 
 <!-- For more icons, please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-4285F4?style=for-the-badge&logo=MicrosoftEdge&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,java,python,discord,cloudflare,github,go,nextjs,mysql,markdown,tailwind,replit,linux,vscode,visualstudio"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiitWT&show_icons=true&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YiitWT&show_icons=true&theme=tokyonight)
