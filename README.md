@@ -7,7 +7,9 @@
 
 ### - I'm a 15-year-old living in Turkey.
 ### - Learning:
-- :sparkles: Everything :flushed:
+- :sparkles: ReactJS
+- :sparkles: Java
+- :sparkles: TailwindCSS
 ### - Hobbies: 
 - :sparkles: Gaming
 - :sparkles: Anime
