@@ -7,9 +7,7 @@
 
 ### - I'm a 16-year-old living in Turkey.
 ### - Learning:
-- :sparkles: ReactJS
-- :sparkles: Java
-- :sparkles: TailwindCSS
+- :sparkles: ReactJS (Not really)
 ### - Hobbies: 
 - :sparkles: Gaming
 - :sparkles: Anime
@@ -24,7 +22,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YiitWT&show_icons=true&theme=tokyonight)
 
 # Contact Me:
-If you want to reach out to me about anything, whether it's a question, just to hang out and chat, or if you want to game together, feel free to ping me :wink:.
+If you want to reach out to me about anything, whether it's a question, to hang out and chat, or to game together, feel free to ping me :wink: .
 <br/>
 [![Discord Presence](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/whW7c9azVF)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YiitWT/)
