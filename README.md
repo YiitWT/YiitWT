@@ -1,7 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=100&duration=3000&pause=1000&color=2596BE&center=true&vCenter=true&width=1920&height=300&lines=Hi+%40everyone%2C+my+name+is+Yigit;I'm+16+years+old;I'm+living+in+Turkiye)](https://git.io/typing-svg) <img align="right" src="https://komarev.com/ghpvc/?username=YiitWT&label=Profile%20views&color=0e75b6&style=flat" alt="YiitWT" />
 ### Spotify Status
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317fxtfhyk27mnhzgyd6rcjvvvuu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317fxtfhyk27mnhzgyd6rcjvvvuu&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317fxtfhyk27mnhzgyd6rcjvvvuu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317fxtfhyk27mnhzgyd6rcjvvvuu&redirect=true)
 # About ME :speech_balloon:
 
 
