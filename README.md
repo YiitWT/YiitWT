@@ -11,7 +11,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317fxtfhyk27mnhzgyd6rcjvvvuu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317fxtfhyk27mnhzgyd6rcjvvvuu&redirect=true)
+
 <p align="left">I'm Yiğit /jiɰit/ from Turkiye<br><br>- 🔭 I’m working as a Freelancer<br>- 📚 I'm currently learning ReactJS<br>- ⚡ In my free time I playe League!</p>
 
 ###
