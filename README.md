@@ -31,9 +31,3 @@ markdown# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&siz
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux logo" />
 </div>
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YiitWT&theme=tokyonight-duo&border_radius=6&mode=weekly" alt="GitHub Streak" /></a>
-</div>
